@@ -9,7 +9,9 @@ dirs = [
     "Alogrithms",
     "Data Structures",
     "Mathematics",
-    "SQL"
+    "SQL",
+    "30 Days of Code",
+    "10 Days of Statistics"
 ]
 
 # Create the directories and write a .gitkeep file inside each directory (we cannot commit an empty directory in git)
