@@ -1,8 +1,10 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import statistics as st
 
+n = input().rstrip().split()
+mu = float(n[0])
+sigma = float(n[1])
 
-mu, sigma = [float(num) for num in input().split()]
 a, b = float(input()), float(input())
 
 
