@@ -1,4 +1,4 @@
-### This is to create the the folders required
+### This is to create the different directories required............
 import os
 
 # Directories needed
