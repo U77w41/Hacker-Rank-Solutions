@@ -1,3 +1,3 @@
 # Hacker-Rank-Solutions
-### Here I shall upload Hacker Rank problem Solutions
+### Here I shall upload HackerRank problem Solutions
 
